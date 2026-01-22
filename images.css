@@ -1,0 +1,25 @@
+body {
+  position: relative;
+}
+div span h1 {
+  font-size: xx-large;
+  font-weight: 100;
+}
+div span h2 {
+  font-size: x-large;
+  font-weight: 100;
+  margin: 20px 200px 10px 0px;
+  display: inline;
+}
+div span {
+  border: solid 1px black;
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+}
+.fa-circle-chevron-left{
+    color: rgba(0, 0, 0, 0.253);
+}
+.fa-circle-chevron-right {
+    color: black;
+}
